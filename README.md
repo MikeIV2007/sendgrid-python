@@ -1,4 +1,4 @@
-![SendGrid Logo](twilio_sendgrid_logo.png)
+p![SendGrid Logo](twilio_sendgrid_logo.png)
 
 [![BuildStatus](https://github.com/sendgrid/sendgrid-python/actions/workflows/test-and-deploy.yml/badge.svg)](https://github.com/sendgrid/sendgrid-python/actions/workflows/test-and-deploy.yml)
 [![Docker Badge](https://img.shields.io/docker/automated/sendgrid/sendgrid-python.svg)](https://hub.docker.com/r/sendgrid/sendgrid-python/)
